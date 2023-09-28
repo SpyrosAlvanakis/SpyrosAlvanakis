@@ -13,6 +13,7 @@ I'm currently finishing my Master's degree. <br>I'm practicing on Machine Learni
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SpyrosAlvanakis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SpyrosAlvanakis&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SpyrosAlvanakis&label=Profile%20Views&color=11&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
