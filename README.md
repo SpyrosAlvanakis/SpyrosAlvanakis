@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently finishing my Master's degree. <br>I'm practicing on Machine Learning techniques with specialization on Biological Data.
+🔧 I'm currently working as a Data Scietist and finishing my Master's degree. <br>🔭 I'm practicing on Machine Learning techniques with specialization on Biological and Ship Kinematics Data.
 
 
 ## 🌐 Socials:
